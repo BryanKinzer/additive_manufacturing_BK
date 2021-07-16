@@ -1,0 +1,6 @@
+/home/brkinzer/phaseField/applications/_additive_manufacturingV5/CMakeFiles/rebuild_cache.dir
+/home/brkinzer/phaseField/applications/_additive_manufacturingV5/CMakeFiles/edit_cache.dir
+/home/brkinzer/phaseField/applications/_additive_manufacturingV5/CMakeFiles/run.dir
+/home/brkinzer/phaseField/applications/_additive_manufacturingV5/CMakeFiles/release.dir
+/home/brkinzer/phaseField/applications/_additive_manufacturingV5/CMakeFiles/main.dir
+/home/brkinzer/phaseField/applications/_additive_manufacturingV5/CMakeFiles/debug.dir
